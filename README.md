@@ -1,6 +1,6 @@
 # PyTorch Tutorial
 
-This is a repository for PyTorch practice. The original tutorial is at:
+This is a repository for practicing PyTorch. The original tutorial is at:
 <http://pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html>
 
 and also I followed Sung Kim's PyTorch tutorial at:
@@ -9,4 +9,4 @@ and also I followed Sung Kim's PyTorch tutorial at:
 
 
 ## Must-do list
-1. familiarize myself with different optimizers \& loss functions and their characteristics
+1. familiarize myself with different optimizers \& loss functions and their different characteristics
